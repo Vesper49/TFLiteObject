@@ -39,9 +39,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     private lateinit var captureImageFab: Button
     private lateinit var inputImageView: ImageView
-    private lateinit var imgSampleOne: ImageView
-    private lateinit var imgSampleTwo: ImageView
-    private lateinit var imgSampleThree: ImageView
     private lateinit var tvPlaceholder: TextView
     private lateinit var currentPhotoPath: String
     private lateinit var But1: Button
