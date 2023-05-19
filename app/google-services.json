@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416697008659",
+    "project_id": "camprot-e6f5b",
+    "storage_bucket": "camprot-e6f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416697008659:android:d1db184d611519c02735e6",
+        "android_client_info": {
+          "package_name": "org.tensorflow.codelabs.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416697008659-7l7r73n5i3sg93k180c3ldfesvv3sm3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8oKIvKx12aj5Q7kFZQHOmGDcwLHHRp_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416697008659-7l7r73n5i3sg93k180c3ldfesvv3sm3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
